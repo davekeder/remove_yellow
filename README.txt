@@ -14,6 +14,7 @@ Features:
 How to Use (Windows):
 -----------
 1. Open the app (double-click `remove_yellow_gui.exe`)
+⚠️ **Note for Windows users:** On first launch, Windows may warn that the app is unrecognized. Click **"More info" → "Run anyway"** to proceed — the app is safe.
 2. Select the input folder (contains your original screenshots)
 3. Select the output folder (where cleaned images will be saved)
 4. Check "Output in grayscale" if you want black & white images
