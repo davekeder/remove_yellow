@@ -1,0 +1,5 @@
+opencv-python
+pdf2image
+pillow
+tk
+PyMuPDF
