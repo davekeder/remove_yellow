@@ -13,12 +13,13 @@ Features:
 
 How to Use (Windows):
 -----------
-1. Open the app (double-click `remove_yellow_gui.exe`)
+1. Download the app from Releases in repository
+2. Open the app (double-click `remove_yellow_gui.exe`)
 ⚠️ **Note for Windows users:** On first launch, Windows may warn that the app is unrecognized. Click **"More info" → "Run anyway"** to proceed — the app is safe.
-2. Select the input folder (contains your original screenshots)
-3. Select the output folder (where cleaned images will be saved)
-4. Check "Output in grayscale" if you want black & white images
-5. Click "Run" to process all supported image files
+3. Select the input folder (contains your original screenshots)
+4. Select the output folder (where cleaned images will be saved)
+5. Check "Output in grayscale" if you want black & white images
+6. Click "Run" to process all supported image files
 
 How to Use (macOS):
 -------------------
