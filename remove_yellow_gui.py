@@ -12,8 +12,8 @@ def remove_yellow_highlights(input_dir, output_dir, log_callback, grayscale_outp
     count = 0
 
     # --- Yellow color HSV range ---
-    lower_yellow = np.array([20, 100, 100])
-    upper_yellow = np.array([40, 255, 255])
+    lower_yellow = np.array([30, 100, 100])
+    upper_yellow = np.array([50, 255, 255])
 
 
     for filename in os.listdir(input_dir):
